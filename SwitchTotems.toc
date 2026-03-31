@@ -1,0 +1,8 @@
+## Interface: 30300
+## Version: 1.0.0
+## Title : SwitchTotems
+## Notes: Auto switches your totems depends on arena opponent classes.
+## Author: Aloomenon
+## SavedVariables: SwitchTotems_DB
+
+SwitchTotems.lua
